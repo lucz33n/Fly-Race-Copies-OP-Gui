@@ -1,5 +1,8 @@
 --// This script was obfuscated and made by Z33N 
 
+--// game link: https://www.roblox.com/games/7137212917/Fly-Race
+--// the group has like 5 more copies of the game this works for all of them lmao enjoy
+
 local llIIlIlIIllllIlIlIlIIlIlIlIllllIllI = {'\27','\76','\117','\97','\81','\0','\1','\4','\8','\4',
 '\8','\0','\10','\0','\0','\0','\0','\0','\0','\0','\64','\109','\97','\105','\110','\46','\108','\117',
 '\97','\0','\3','\0','\0','\0','\75','\0','\0','\0','\0','\0','\0','\10','\57','\0','\0','\0','\5','\0',
